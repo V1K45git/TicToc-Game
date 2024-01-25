@@ -5,7 +5,7 @@ var arr = [
   [-1, -1, -1],
 ];
 
-var names = ["Vikas", "Vikash"];
+var names = ["PlayerA", "PlayerB"];
 
 let element = document.querySelector("#ctn");
 element.addEventListener("click", function (event) {
